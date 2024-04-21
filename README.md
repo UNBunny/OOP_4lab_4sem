@@ -11,6 +11,5 @@
 - Создать из строки JSON объект
 - Получить список всех объектов хранящихся на сервере в файле (можно в виде таблицы, в виде карточек, в виде контейнеров и т.д.)
 
-<img src="https://github.com/UNBunny/OOP_3lab_4sem/assets/112119548/bc526ff0-ac6d-45f4-abfe-a6df1e08dab2" width="500">
-<img src="https://github.com/UNBunny/OOP_3lab_4sem/assets/112119548/bc1e67b3-c897-4258-8a9d-c0c11018743c" width="500">
-
+<img src="https://github.com/UNBunny/OOP_4lab_4sem/assets/112119548/127b3eaa-8c69-45de-8ace-bea237cdca7b" width="500">
+<img src="https://github.com/UNBunny/OOP_4lab_4sem/assets/112119548/6abf5237-e797-454a-99f0-4d84381380d8" width="500">
