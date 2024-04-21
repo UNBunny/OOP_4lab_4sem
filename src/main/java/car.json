@@ -1,0 +1,16 @@
+[
+  {
+    "make": "audi",
+    "model": "a6",
+    "engine": "бензин",
+    "year": 2015,
+    "transmission": "автомат"
+  },
+  {
+    "make": "BMW",
+    "model": "525i",
+    "engine": "бензин",
+    "year": 2008,
+    "transmission": "механика"
+  }
+]
